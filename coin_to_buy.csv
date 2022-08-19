@@ -1,2 +1,2 @@
-name,Date,ret,Close,momentum_total,price_mon,volume_mon,gray,blue,yellow,green,exp_price
-CVCUSDT,2022-08-17 20:00:00,-0.018623024830699775,0.1739,9.0,0.5628590153822387,103.72578662249221,0,0,0,0,0.22607
+name,Date,ret,Close,momentum_total,price_mon,volume_mon,exp_price
+FLUXUSDT,2022-08-18 20:00:00,-0.11987704918032782,0.859,10.0,-1.1507479861910126,133.12555249158302,1.1167
